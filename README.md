@@ -6,7 +6,7 @@ An automated lead-handling agent built with **n8n** and **Groq (Llama 3.3 70B)**
 
 ## Demo
 
-*(video coming — see below)*
+https://github.com/user-attachments/assets/62f500bd-3be5-467d-ac2f-21f884033ff3
 
 ## What it does
 
@@ -23,5 +23,5 @@ Most lead-capture workflows just store form data and send a generic "thanks, we'
 
 
 
-https://github.com/user-attachments/assets/62f500bd-3be5-467d-ac2f-21f884033ff3
+
 
