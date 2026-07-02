@@ -22,3 +22,7 @@ An automated lead-handling agent built with **n8n** and **Groq (Llama 3.3 70B)**
 
 Most lead-capture workflows just store form data and send a generic "thanks, we'll be in touch" email. This agent actually reads and understands each lead — a vague, low-effort inquiry gets flagged differently than a serious, budget-ready one, and every reply is written specifically for that person's message.
 
+
+
+https://github.com/user-attachments/assets/62f500bd-3be5-467d-ac2f-21f884033ff3
+
